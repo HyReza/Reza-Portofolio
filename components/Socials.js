@@ -18,7 +18,7 @@ const Socials = () => {
     <Link href={'https://www.facebook.com/profile.php?id=100011027269048&mibextid=gik2fB'} className='hover:text-accent transition-all duration-300'>
       <RiFacebookBoxLine/>
     </Link>
-    <Link href={'https://wa.me/081991545653'} className='hover:text-accent transition-all duration-300'>
+    <Link href={'https://wa.me/6281991545653'} className='hover:text-accent transition-all duration-300'>
       <RiWhatsappLine/>
     </Link>
     <Link href={'https://www.linkedin.com/in/reza-edi-saputra-0b60a4256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'} className='hover:text-accent transition-all duration-300'>
